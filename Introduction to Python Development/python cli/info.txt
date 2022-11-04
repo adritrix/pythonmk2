@@ -1,0 +1,12 @@
+para activar el entorno virtual de python lanzas un '  sudo apt instal pipenv  '   '             '
+
+
+sudo apt insall pip 
+
+pip install pipenv
+
+sudo apt install pipenv
+
+pip enpipenv --python python3.10 
+
+pipenv shell 
